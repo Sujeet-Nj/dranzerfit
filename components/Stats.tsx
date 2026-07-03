@@ -3,10 +3,10 @@
 import { motion } from "framer-motion";
 
 const stats = [
-  { label: "Active Members", value: "10,000+" },
+  { label: "Active Members", value: "100+" },
   { label: "Workout Programs", value: "50+" },
-  { label: "Exercises in Library", value: "200+" },
-  { label: "Success Stories", value: "1,200+" },
+  { label: "Exercises in Library", value: "50+" },
+  { label: "Success Stories", value: "50+" },
 ];
 
 export default function Stats() {

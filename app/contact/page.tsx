@@ -54,7 +54,7 @@ const result = await response.json();
               </div>
               <div>
                 <p className="font-semibold text-gray-900">Email</p>
-                <p className="text-gray-500 text-sm">hello@dranzerfit.com</p>
+                <p className="text-gray-500 text-sm">dranzerfit@gmail.com</p>
               </div>
             </div>
             <div className="flex items-start gap-4">
@@ -72,7 +72,7 @@ const result = await response.json();
               </div>
               <div>
                 <p className="font-semibold text-gray-900">Location</p>
-                <p className="text-gray-500 text-sm">Gurugram, India</p>
+                <p className="text-gray-500 text-sm">Delhi, India</p>
               </div>
             </div>
           </div>
